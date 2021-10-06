@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/flupine/flupine/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/flupine/flupine/blob/master/devcard.svg" width="400" alt="Faurest Lupine Dev Card"/></a>
 <!--
 **flupine/flupine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
